@@ -1,0 +1,10 @@
+[project]
+name = "crow_chat"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "django>=6.0",
+    "django-environ>=0.12.0",
+    "djangorestframework>=3.16.1",
+]
